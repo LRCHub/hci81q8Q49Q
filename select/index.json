@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Fly-day Chinatown",
+  "base_artist": "Yasuha",
+  "createdAt": "2025-12-23T16:09:52.584237Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/01_Fly-day_Chinatown_泰葉.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "Yasuha",
+      "has_synced": true,
+      "path": "select/02_Fly-day_Chinatown_Yasuha.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/03_Fly-day_Chinatown_泰葉.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fly-Day Chinatown",
+      "artist": "Yasuha",
+      "has_synced": true,
+      "path": "select/04_Fly-Day_Chinatown_Yasuha.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/05_Fly-day_Chinatown_泰葉.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo feat. 泰葉",
+      "has_synced": true,
+      "path": "select/06_Fly-day_Chinatown_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo_feat._泰葉.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo",
+      "has_synced": true,
+      "path": "select/07_Fly-day_Chinatown_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "Yasuha",
+      "has_synced": true,
+      "path": "select/08_Fly-day_Chinatown_Yasuha.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "Yasuha",
+      "has_synced": true,
+      "path": "select/09_Fly-day_Chinatown_Yasuha.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown (Night Tempo Showa Groove Mix)",
+      "artist": "Night Tempo & Yasuha",
+      "has_synced": true,
+      "path": "select/10_Fly-day_Chinatown_(Night_Tempo_Showa_Groove_Mix)_Night_Tempo_&_Yasuha.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/11_Fly-day_Chinatown_泰葉.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/12_Fly-day_Chinatown_泰葉.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "Yasuha",
+      "has_synced": true,
+      "path": "select/13_Fly-day_Chinatown_Yasuha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fly-Day Chinatown",
+      "artist": "Yasu",
+      "has_synced": true,
+      "path": "select/14_Fly-Day_Chinatown_Yasu.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/15_Fly-day_Chinatown_泰葉.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": true,
+      "path": "select/16_Fly-day_Chinatown_泰葉.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": false,
+      "path": "select/pl_01_Fly-day_Chinatown_泰葉.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": false,
+      "path": "select/pl_02_Fly-day_Chinatown_泰葉.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Fly-day Chinatown",
+      "artist": "泰葉",
+      "has_synced": false,
+      "path": "select/pl_03_Fly-day_Chinatown_泰葉.txt"
+    }
+  ]
+}
